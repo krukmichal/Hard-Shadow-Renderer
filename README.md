@@ -3,4 +3,4 @@ Application with GUI to show hard shadows render effects in real time.
 
 # Example
 
-![Screenshot from 2023-02-23 16-23-21](https://user-images.githubusercontent.com/61969218/220953912-bdac0002-ceca-46f1-8700-a96da7dd3fb2.png)
+![Screenshot from 2023-02-23 16-35-00](https://user-images.githubusercontent.com/61969218/220954351-eb2922d2-83ff-4cbd-9c75-ca81256fe69a.png)
